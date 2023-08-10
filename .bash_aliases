@@ -2,7 +2,6 @@
 alias sudo='sudo '
 
 # Commands about aliases
-alias iforgottxt="cat ~/.iforgot.txt"
 alias iforgot="cat ~/.bash_aliases"
 alias editaliases="nvim ~/.bash_aliases"
 
